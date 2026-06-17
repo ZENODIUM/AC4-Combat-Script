@@ -1,0 +1,25 @@
+# Local-only automation (not for publication)
+private/
+
+# Legacy local bot filenames (keep out of public tree)
+ac4_combat_bot.py
+ac4_combat_bot copy.py
+break_defence_trigger.png
+
+# Runtime / debug artifacts
+debug_frame.png
+Images/
+*.pyc
+__pycache__/
+.venv/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
