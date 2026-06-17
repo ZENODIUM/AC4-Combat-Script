@@ -117,10 +117,7 @@ result = engine.analyze(frame_bgr)  # numpy BGR image
 print(result.primary, result.metrics)
 ```
 
-## Local-only scripts
 
-The `private/` directory is **gitignored**. Keep any application-specific integration
-prototypes there — not in the public tree.
 
 ## License
 
